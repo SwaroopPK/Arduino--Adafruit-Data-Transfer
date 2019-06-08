@@ -2,8 +2,8 @@
 
 // visit io.adafruit.com if you need to create an account,
 // or if you need your Adafruit IO key.
-#define IO_USERNAME   "SwaroopPK"
-#define IO_KEY        "ae2630e868f44e899c4610cfec6f805f"
+#define IO_USERNAME   "Your AdafruitIO Username"
+#define IO_KEY        "Key generated in AdafruitIO"
 
 /******************************* WIFI **************************************/
 
@@ -17,8 +17,8 @@
 //   - Adafruit Metro M4 Express AirLift Lite -> https://www.adafruit.com/product/4000
 //   - Adafruit AirLift Breakout -> https://www.adafruit.com/product/4201
 
-#define WIFI_SSID   "Swaroop"
-#define WIFI_PASS   "1234567890"
+#define WIFI_SSID   "Your SSID"
+#define WIFI_PASS   "Your Password"
 
 // uncomment the following line if you are using airlift
 // #define USE_AIRLIFT
