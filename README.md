@@ -15,4 +15,5 @@ The two fixed ends of the potentiometer were connected to 3V supply and GND(Grou
 For more information on ESP8266, refer [ESP8266 Datasheet](https://www.espressif.com/sites/default/files/documentation/0a-esp8266ex_datasheet_en.pdf).
 
 
-![](AdafruitIO_Potentiometer_Voltage.JPEG)
+![](AdafruitIO_Potentiometer_Voltage.jpeg)
+![](Temperature-Controlled-Fan-.jpg)
