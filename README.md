@@ -14,13 +14,7 @@ The two fixed ends of the potentiometer were connected to 3V supply and GND(Grou
 
 For more information on ESP8266, refer [ESP8266 Datasheet](https://www.espressif.com/sites/default/files/documentation/0a-esp8266ex_datasheet_en.pdf).
 
-<img src="http://user-images.githubusercontent.com/47825893/59148420-77836180-8a26-11e9-978e-4c576579b351.JPG" width="500" height="500" />
-
-![Voltage_Check_AdafruitIO](https://user-images.githubusercontent.com/47825893/59148420-77836180-8a26-11e9-978e-4c576579b351.JPG?)
-
-
-![Voltage_Check_AdafruitIO](https://user-images.githubusercontent.com/47825893/59148992-638f2e00-8a2d-11e9-9bc7-e3f05a1d0b81.png)
 
 
 
-<img align="right" width="250" height="250" src="http://user-images.githubusercontent.com/47825893/59148420-77836180-8a26-11e9-978e-4c576579b351.JPG"/>
+<p><img src="https://user-images.githubusercontent.com/47825893/59148420-77836180-8a26-11e9-978e-4c576579b351.JPG" alt="Voltage_Check_AdafruitIO" width="500" height="500" /></p>
