@@ -11,7 +11,7 @@ We have made use of Adafriut Cloud Service. For information about Adafruit, refe
 
 The circuit was setup as shown in the figure. 
 
-<p align="center"><https://user-images.githubusercontent.com/48091500/59159917-ea0b4480-8aed-11e9-90d9-69bd7120ad09.jpg" alt="AdafruitIO_Potentiometer_Voltage" width="750" height="350" /></p>
+<p align="center"><https://user-images.githubusercontent.com/48091500/59160031-268b7000-8aef-11e9-9e47-a0cf65d71494.jpg" alt="AdafruitIO_Potentiometer_Voltage" width="750" height="350" /></p>
   
 ### <p align="center">Fig 1. Circuit Showing the Connections</p>
 
@@ -19,6 +19,6 @@ The two fixed ends of the potentiometer were connected to 3V supply and GND(Grou
 
 <p align="center"><img src="https://user-images.githubusercontent.com/48091500/59159687-15406480-8aeb-11e9-8576-b7075897cd7f.JPG" alt="AdafruitIO_Potentiometer_Voltage" width="750" height="350" /></p>
 
-### <p align="center">Fig 2. Plotting of Graph for Different Voltage Values(V) where Y-axis is Voltage and X-axix is Time(s)</p>
+### <p align="center">Fig 2. Plotting of Graph for Different Voltage Values(V) where Y-axis is Voltage and X-axix is Time(h:min:s)</p>
 
 For more information on ESP8266, refer [ESP8266 Datasheet](https://www.espressif.com/sites/default/files/documentation/0a-esp8266ex_datasheet_en.pdf).
