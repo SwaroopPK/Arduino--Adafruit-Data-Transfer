@@ -5,6 +5,7 @@ This project deals with data logging of voltage values of an LED using a potenti
 1. Node MCU ESP8266
 2. LED
 3. 10K Potentiometer
+4. 1K Resistor
 
 We have made use of Adafriut Cloud Service. For information about Adafruit, refer [https://www.adafruit.com/about](https://www.adafruit.com/about).
 
