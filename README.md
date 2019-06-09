@@ -16,5 +16,7 @@ For more information on ESP8266, refer [ESP8266 Datasheet](https://www.espressif
 
 
 
+<p><img src="https://user-images.githubusercontent.com/47825893/59148420-77836180-8a26-11e9-978e-4c576579b351.JPG" alt="Voltage_Check_AdafruitIO" width="500" height="350" /></p>
 
-<p><img src="https://user-images.githubusercontent.com/47825893/59148420-77836180-8a26-11e9-978e-4c576579b351.JPG" alt="Voltage_Check_AdafruitIO" width="500" height="500" /></p>
+
+<p><img src="https://user-images.githubusercontent.com/47825893/59149482-2cbc1680-8a33-11e9-99c7-d77504e6e261.JPG" alt="AdafruitIO_Potentiometer_Voltage" width="750" height="350" /></p>
