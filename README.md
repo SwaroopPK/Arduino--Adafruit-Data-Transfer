@@ -11,7 +11,7 @@ We have made use of Adafriut Cloud Service. For information about Adafruit, refe
 
 The circuit was setup as shown in the figure. 
 
-<p align="center"><img src="https://user-images.githubusercontent.com/48091500/59160096-5aff2c00-8aef-11e9-9f75-de4a5d61d5ed.jpg"</p>
+<p align="center"><img src="https://user-images.githubusercontent.com/48091500/59160096-5aff2c00-8aef-11e9-9f75-de4a5d61d5ed.jpg" height="450"></p>
   
 ### <p align="center">Fig 1. Circuit Showing the Connections</p>
 
