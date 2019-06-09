@@ -19,6 +19,6 @@ The two fixed ends of the potentiometer were connected to 3V supply and GND(Grou
 
 <p align="center"><img src="https://user-images.githubusercontent.com/48091500/59159687-15406480-8aeb-11e9-8576-b7075897cd7f.JPG" alt="AdafruitIO_Potentiometer_Voltage" width="750" height="350" /></p>
 
-### <p align="center">Fig 2. Plotting of Graph for Different Voltage Values(V) where Y-axis is Voltage and X-axix is Time(h:min:s)</p>
+### <p align="center">Fig 2. Plotting of Graph for Different Voltage Values where Y-axis is Voltage(V) and X-axix is Time(h:min:s)</p>
 
 For more information on ESP8266, refer [ESP8266 Datasheet](https://www.espressif.com/sites/default/files/documentation/0a-esp8266ex_datasheet_en.pdf).
